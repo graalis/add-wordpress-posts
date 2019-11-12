@@ -1,10 +1,10 @@
 ﻿Automatisation of Wordpress posting with Selenium for last versions of Wordpress (April 2019).
-Python 2 yet.
+Python 2.
 Needs Chromedriver.exe in project directory.
 
 ---
 
-Автоматическое создание постов в Wordpress на Selenium. Написано для последней версии Wordpress по состоянию на апрель 2019.
+Автоматическое создание постов в Wordpress на Selenium. Написано для последней версии Wordpress по состоянию на март 2019.
 
 Код пока на Python 2.
 
